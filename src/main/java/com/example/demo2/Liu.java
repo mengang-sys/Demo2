@@ -6,6 +6,7 @@ public class Liu  {
         System.out.println("Liu");
         System.out.println("Meng");
         System.out.println("Yang");
+        System.out.println("king");
         System.out.println("0000");
         System.out.println("11111");
         System.out.println("44444");
