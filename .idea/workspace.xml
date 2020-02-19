@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91f9b2c2-a7d3-49e0-92a3-e32a4dbdec96" name="Default Changelist" comment="" />
+    <list default="true" id="91f9b2c2-a7d3-49e0-92a3-e32a4dbdec96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Meng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Meng.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="uat" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -149,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582093993578</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="master合并到dev分支">
+      <created>1582100313557</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582100313557</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[Meng].0000">
+      <created>1582100408163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582100408163</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +191,9 @@
     <MESSAGE value="2222" />
     <MESSAGE value="启动项改变3333" />
     <MESSAGE value="版本回退2222" />
-    <option name="LAST_COMMIT_MESSAGE" value="版本回退2222" />
+    <MESSAGE value="master合并到dev分支" />
+    <MESSAGE value="[Meng].0000" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Meng].0000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="473" y="7" key="CommitChangelistDialog2" timestamp="1582100312916">
